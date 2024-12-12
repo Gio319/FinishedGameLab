@@ -1,0 +1,30 @@
+Dark Basement
+It is a dark cold basement with a safe in the corner. Right next to the safe you see a glimpse of light reflect off what looks to be a key. The air is cold and damp but also humid at the same time. There is a boiler room to the east and a Staircase leading upstairs.
+#
+Boiler Room
+You are standing in a stuffy humid boiler room on the floor in front of the door there is a lighter and in the back in front of the boiler there is an old rusty crowbar. The only way to go from here is where you came from.
+#
+Dining Room
+You are now in a 1950's style dining room. There is a finger on the table dried up. There is a hall to the east and to the west, to the north there is a livingroom and finally to the south there is a kitchen. 
+#
+West Hall
+You are now in the west hall the walls are filled with paintings of what looks like family portraits as the hallway goes on the pictures get more and more distorted. There are two directions you can go. To the east is the dining room and to the west is a closet.
+#
+Closet
+Its a hall closet with a bunch of half empty cleaning supplies and on the top shelf there is a box sealed with wax sitting on the edge. Only way to go is the way you came.
+#
+East Hall
+You are now in the East hall. This side has a bunch of holes in the walls under the holes there is a doll sitting on the ground. There are two ways to go there is back to the dining room to the west and a bathroom to the south.
+#
+Bathroom
+You are in the Bathroom. There is a cabinet that is half open. The only way to go is to go back the way you came.
+#
+Kitchen
+You are in the kitchen. On the center island there is a knife in the knife block and the fridge is chained up locked with a massive silver lock. Only way to go is back north to the dining room.
+#
+Living Room
+You are now in the living room. There looks to be a whole family of mannequins sitting on the couch back facing the dining room with the television on with tv static phasing between a horror movie kill scene. On each side of the couch are end tables one has a lamp that seems to be bolted to the table and the other has a small vase. There is the Front door to the north and then there is the dining room to the south.
+#
+Outside
+A nice whiff of freash air hits you in the face. Feels good to be free.
+#
